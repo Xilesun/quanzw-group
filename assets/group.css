@@ -1,0 +1,27 @@
+.right {
+  padding: 0 20px;
+}
+.right img {
+  width: 150px;
+}
+.section {
+  margin-bottom: 20px;
+}
+.section-title {
+  font-family: Georgia;
+}
+.photo {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  text-align: center;
+}
+.photo > div {
+  padding: 5px;
+  box-shadow: 0 0 2px #4295c0;
+  margin: 5px;
+  font-family: arial;
+  color: #888;
+  font-size: 12px;
+}
