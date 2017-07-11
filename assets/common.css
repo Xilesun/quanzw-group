@@ -62,11 +62,10 @@ ul {
 .content {
   width: 85%;
   margin: auto;
-  display: flex;
-  flex-direction: row;
   margin-top: 30px;
 }
 .left {
+  position: fixed;
   width: 25%;
   border-right: 1px solid #eee;
   text-align: center;
@@ -80,4 +79,10 @@ ul {
 }
 .left a:hover {
   color: #4295c0;
+}
+.left .li-hover {
+  color: #4295c0;
+}
+.right {
+  padding-left: 350px;
 }
