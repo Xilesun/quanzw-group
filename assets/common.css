@@ -86,3 +86,7 @@ ul {
 .right {
   padding-left: 350px;
 }
+.footer {
+  height: 100px;
+  background-color: #224b60;
+}

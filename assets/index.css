@@ -6,3 +6,18 @@
 .slider img {
   width: 100%;
 }
+.main {
+  max-width: 80%;
+  margin: 50px auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.main div {
+  width: 45%;
+  box-shadow: 0 0 2px #4295c0;
+  padding: 20px;
+}
+.boss img {
+  width: 200px;
+}
