@@ -86,7 +86,12 @@ ul {
 .right {
   padding-left: 350px;
 }
+.section-title {
+  font-size: 18px;
+  color: #4295c0;
+}
 .footer {
+  margin-top: 50px;
   height: 100px;
   background-color: #224b60;
 }

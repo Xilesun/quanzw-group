@@ -1,0 +1,14 @@
+.pub-list {
+  list-style: decimal;
+  transform: rotate(180deg);
+}
+.pub-list li {
+  margin: 10px 0;
+  transform: rotate(-180deg);
+}
+.left {
+  width: 20%;
+}
+.section {
+  margin: 50px 0;
+}
